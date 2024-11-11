@@ -1,4 +1,4 @@
-------------  Oracle ----------------------
+------------ Oracle ----------------------
 CREATE TABLE DEPT (
     DEPTNO     NUMBER(2)     NOT NULL,
     DNAME      VARCHAR2(14)  NOT NULL,
