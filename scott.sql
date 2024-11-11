@@ -1,4 +1,4 @@
----ORACLE
+------------  Oracle ----------------------
 CREATE TABLE DEPT (
     DEPTNO     NUMBER(2)     NOT NULL,
     DNAME      VARCHAR2(14)  NOT NULL,
@@ -103,7 +103,7 @@ COMMIT
 
 ------------------------------------------
 
---------POSTGRES // MARIADB --------------
+------- PostgreSQL // MariaDB ------------
 
 create table dept (
   deptno integer,
